@@ -35,11 +35,11 @@
 <kbd>88</kbd>
 <kbd>96</kbd>
 
-### Quick install
+### Quick Install
 
 <p align="center">
-  <a href="https://www.pling.com/p/1445634/#files-panel" >
-    <img title="Bibata Pling Store" width="40%" src="https://imgur.com/VxSgrWw.png">
+  <a href="https://github.com/CommanderTurtle/Bibata_Cursor_Rainbow_2.0/releases/download/v2.0/Bibata-Rainbow-Modern-Windows.zip" >
+    <img title="Bibata Fixed Latest Release" width="40%" src="https://static.vecteezy.com/system/resources/previews/000/562/188/original/vector-download-download-button-illustration-data.jpg">
   </a>
 </p>
 
@@ -51,9 +51,11 @@
   <sub>Bibata Rainbow</sub>
 </p>
 
-### Manual Install
+### Manual Install [Original - Unfixed]
 
-Latest `Stable` & `Development` releases can be downloaded from [Here](https://github.com/ful1e5/Bibata_Cursor_Rainbow/releases)
+Original `Stable` & `Development` releases can be downloaded from [Here](https://github.com/ful1e5/Bibata_Cursor_Rainbow/releases)
+Download Anituner from the [Official Site](https://www.gdgsoft.com/anituner/download)
+Align all .ani files to your liking
 
 #### Linux/X11
 
