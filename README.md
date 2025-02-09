@@ -1,3 +1,12 @@
+# This is an alignment fix for the original Bibata Modern Rainbow Cursor for Windows 11/10/8.1/7
+- Download _Bibata-Rainbow-Modern-Windows.zip_ from [Here](https://github.com/CommanderTurtle/Bibata_Cursor_Rainbow_2.0/releases/tag/v2.0)
+- Unzip the file
+- Right Click install.ini and click install
+- Windows search for "Mouse Settings"
+- Click "Additional mouse settings"
+- Find your new cursor under the Pointers tab
+- Further adjust size through Mouse Settings>Mouse pointer
+-------------------------------------------------------------------------
 # Bibata Cursor Rainbow
 
 'Semi-Animated' Bibata cursors with rainbow colors.
