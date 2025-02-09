@@ -54,7 +54,9 @@
 ### Manual Install [Original - Unfixed]
 
 Original `Stable` & `Development` releases can be downloaded from [Here](https://github.com/ful1e5/Bibata_Cursor_Rainbow/releases)
+
 Download Anituner from the [Official Site](https://www.gdgsoft.com/anituner/download)
+
 Align all .ani files to your liking
 
 #### Linux/X11
